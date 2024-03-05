@@ -1,0 +1,7 @@
+environment: development
+
+http_port: 10000
+grpc_port: 10001
+auth_secret: "KkUlhrOa6N/MMbFtWul+sWx16Oa1p35YBZEcAujn6B8="
+
+mongodb_uri: "mongodb+srv://codearena:zql285637@cluster0.jaj2oh9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
